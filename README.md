@@ -1,8 +1,6 @@
 TASK 2
 
-In the project directory, you can run:
-
-@client/:
+Inside the client directory:
 
 ### `npm start`
 
@@ -17,12 +15,13 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-@api/
 
 This node js app logs keywords and previewed videos and stores it in mongoDB.
+Inside the api directory:
 
 ### `node index.js`
 Starts the app. 
+
 
 In order to lauch the mongoDB you need to have homebrew/mongoDB installed.
 
@@ -30,8 +29,10 @@ In a separate terminal window:
 ### 'brew services start mongodb-community@4.4'
 Starts mongoDB
 
+
 ### 'brew services stop mongodb-community@4.4' 
 Stops it.
+
 
 In a separate terminal window:
 ### 'mongo'
