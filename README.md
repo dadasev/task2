@@ -6,7 +6,7 @@ https://hardcore-lumiere-145390.netlify.app
 This deployment features front end features only. 
 In order to review the back end part - please download the repo and use the commmands below to set it up on your local machine. 
 
-#FRONT END:
+## FRONT END:
 
 Inside the client directory:
 
@@ -24,7 +24,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
-#BACK END:
+## BACK END:
 
 This node js app logs keywords and previewed videos and stores it in mongoDB.
 Inside the api directory:
