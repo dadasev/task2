@@ -1,4 +1,5 @@
-TASK 2: 
+## TASK 2: 
+
 Create one page responsive layout and use "Youtube" APIs (https://developers.google.com/youtube/v3) to search, preview results and log user action in the back-end.
 
 Deployed with Netlify:
