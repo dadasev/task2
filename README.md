@@ -1,4 +1,10 @@
-TASK 2
+TASK 2: 
+Create one page responsive layout and use "Youtube" APIs (https://developers.google.com/youtube/v3) to search, preview results and log user action in the back-end.
+
+Deployed with Netlify:
+https://hardcore-lumiere-145390.netlify.app
+This deployment features front end features only. 
+In order to review the back end part - please download the repo and use the commmands below to set it up on your local machine. 
 
 FRONT END:
 
