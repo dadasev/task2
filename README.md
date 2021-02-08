@@ -1,5 +1,7 @@
 TASK 2
 
+FRONT END:
+
 Inside the client directory:
 
 ### `npm start`
@@ -15,6 +17,8 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+BACK END:
 
 This node js app logs keywords and previewed videos and stores it in mongoDB.
 Inside the api directory:
