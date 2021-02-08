@@ -30,14 +30,14 @@ Starts the app.
 In order to lauch the mongoDB you need to have homebrew/mongoDB installed.
 
 In a separate terminal window:
-### 'brew services start mongodb-community@4.4'
+### `brew services start mongodb-community@4.4`
 Starts mongoDB
 
 
-### 'brew services stop mongodb-community@4.4' 
+### `brew services stop mongodb-community@4.4`
 Stops it.
 
 
 In a separate terminal window:
-### 'mongo'
+### `mongo`
 Opens up a Mongo Shell.
